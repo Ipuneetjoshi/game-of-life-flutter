@@ -18,7 +18,7 @@ A Flutter implementation of Conway's Game of Life, demonstrating modular archite
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
+   git clone git@github.com:Ipuneetjoshi/game-of-life-flutter.git
    cd game_of_life_starter_code
    ```
 2. Install dependencies:
